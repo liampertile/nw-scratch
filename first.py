@@ -10,7 +10,7 @@ import numpy as np
 # layer_2 = layers.Dense(units=1, activation='sigmoid')
 # a2= layer_2(a1)
 
-# ^^^^ ^^^^ ^^^^ this is so MONKEY. Instead USE Sequential. 
+# ^^^^ ^^^^ ^^^^ this is so MONKEY. USE Sequential INSTEAD. 
 
 x = np.array([[200.0, 16.0]])
 
